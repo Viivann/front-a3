@@ -1,4 +1,4 @@
-# recruta.ai — Frontend
+ — Frontend
 
 Interface web do painel de candidatos. Exibe, filtra e gerencia os currículos enviados ao bot.
 
